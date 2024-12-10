@@ -7,13 +7,16 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.36/5a30490a6e14977d97d9c73c924c1f1b5311ea95/lombok-1.18.36.jar" />
         </processorPath>
-        <module name="chatper4.main" />
+        <module name="chapter4.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chatper1" target="17" />
       <module name="chatper1.main" target="17" />
       <module name="chatper1.test" target="17" />
+      <module name="chatper4" target="17" />
+      <module name="chatper4.main" target="17" />
+      <module name="chatper4.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
